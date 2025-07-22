@@ -35,8 +35,8 @@ Here are a few highlights of what I’ve been working on:
 ### 📫 How to reach me
 
 - Email: ramadhanma99@gmail.com
-- LinkedIn: [linkedin.com/in/ramadhanmaulana](https://www.linkedin.com/in/ramadhanmaulana)
 - GitHub: [github.com/Ramskk](https://github.com/Ramskk)
+- Phone: [+6281249270594](wa.me/6281249270594)
 
 ---
 
