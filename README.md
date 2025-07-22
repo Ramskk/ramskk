@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ramadhan Maulana
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves building web apps, mobile apps, and experimenting with cool APIs. I often work with **Flutter**, **CodeIgniter 4**, **Arduino**, and some public APIs such as **Aladhan** and **Currency Freaks**.
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves building web apps, mobile apps, game modding, and experimenting with cool APIs. I often work with **Flutter**, **CodeIgniter 4**, **Arduino**, and some public APIs such as **Aladhan** and **Currency Freaks**.
 
 ---
 
