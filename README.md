@@ -36,7 +36,7 @@ Here are a few highlights of what I’ve been working on:
 
 - Email: ramadhanma99@gmail.com
 - GitHub: [github.com/Ramskk](https://github.com/Ramskk)
-- Phone: [+6281249270594](wa.me/6281249270594)
+- Phone: +62 81249270594
 
 ---
 
