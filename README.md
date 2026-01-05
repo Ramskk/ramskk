@@ -40,10 +40,4 @@ Here are a few highlights of what I’ve been working on:
 
 ---
 
-### ⚡ Fun Fact
-
-I love building apps that solve daily problems — from currency tracking to spiritual reminders — and I enjoy tweaking camera mods & photography too 📷!
-
----
-
-Thanks for stopping by! Don't forget to ⭐️ the repos you like!
+Thanks for stopping by. Don't forget to ⭐️ the repos you like!
